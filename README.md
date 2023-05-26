@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Kamil
-![](https://static.tildacdn.com/tild3064-3663-4733-b366-313737303061/giphy.gif)
+![](https://specials-images.forbesimg.com/imageserve/5ee39ccacff73a000668189d/1920x0.gif?fit=scale)
 
 Student at the Moscow Power Engineering Institute, Department of Information and Computer Technologies
 
