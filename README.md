@@ -3,7 +3,7 @@
 
 Student at the Moscow Power Engineering Institute, Department of Information and Computer Technologies
 
-Skills: Python / MySQL / C++ / C# / MongoDB / Redis / REST API / Java / PyMongo / Flask 
+Skills: Python / MySQL / NumPy / Pandas / Matplotlib / Seaborn / SciPy / C++ / C# / MongoDB / Redis / REST API / Java / PyMongo / Flask /
 
 - 🔭 I’m currently working on my thesis project 
 - 🌱 I’m currently learning Data Analytics 
