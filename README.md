@@ -11,7 +11,7 @@ Student at the Moscow Power Engineering Institute, Department of Information and
 - 🤔 I’m looking for help with statistics and data analytics 
 
 
-[<img src='https://gitlab.com/uploads/-/system/group/avatar/10532272/github.png' alt='github' height='40'>](https://github.com/Lszoa)  [<img src='https://sun9-51.userapi.com/impg/7Kowi0MfRoq1UgeJ9fxldLQMgOgKAL1KJsDp6A/DrirqC6pXlI.jpg?size=1850x1850&quality=96&sign=b43839b6b53c96429945032b39ad9cc9&type=albumhttps://assets.tumblr.com/images/x.gif?v=1' alt='telegram' height='40'>](https://t.me/Lszoa)  
+[<img src='https://gitlab.com/uploads/-/system/group/avatar/10532272/github.png' alt='github' height='40'>](https://github.com/Lszoa)  [<img src='https://s2.gifyu.com/images/telegram.gif' alt='telegram' height='40'>](https://t.me/Lszoa)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lszoa)](https://github.com/anuraghazra/github-readme-stats)
 
