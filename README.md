@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Kamil
-![](https://jelvix.com/wp-content/uploads/2021/01/github-logo.png)
+![](https://static.tildacdn.com/tild3064-3663-4733-b366-313737303061/giphy.gif)
 
 Student at the Moscow Power Engineering Institute, Department of Information and Computer Technologies
 
