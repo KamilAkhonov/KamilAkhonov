@@ -13,4 +13,4 @@ Student at the Moscow Power Engineering Institute, Department of Information and
 
 [<img src='https://i.pinimg.com/originals/71/33/c7/7133c746eca7e3a7b84aee1027b4b935.gif' alt='github' height='40'>](https://github.com/Lszoa)  [<img src='https://s2.gifyu.com/images/telegram.gif' alt='telegram' height='40'>](https://t.me/Lszoa)  [<img src ='https://retailrocket.ru/wp-content/uploads/2021/02/kaggle.svg' alt='kaggle' height = '40'>](https://www.kaggle.com/lszoakamil)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lszoa)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lszoa&hide_progress=true)
