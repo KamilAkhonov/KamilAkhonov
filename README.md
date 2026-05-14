@@ -1,12 +1,11 @@
-### Hi there 👋, my name is Kamil
-![](https://user-images.githubusercontent.com/107361187/230791166-675fa676-d730-4d59-9cd8-0ebf68fa681d.gif)
+![](https://mir-s3-cdn-cf.behance.net/project_modules/1400/67607955080161.597768d22e415.gif)
 
-Graduate of the Moscow Power Engineering Institute, Department of Information and Computer Technologies 2023.
+Data Engineering Enthusiast | Ex-AdOps Senior Specialist
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+🎓 MPEI Graduate (2023) — Information & Computer Technologies.
+🛠️ Currently bridging the gap between AdTech operations and Data Engineering. Working with high-load DSP systems and programmatic data.
+📊 Love turning messy numbers into clean pipelines.
+🐈 Fragrance collector, cat lover, and data explorer.
 
-- 🧑‍💻 I'm currently working as a senior AdOps programmatic DSP
-- ❤️ I like cats, numbers, and marketing.
 
 [<img src='https://i.pinimg.com/originals/71/33/c7/7133c746eca7e3a7b84aee1027b4b935.gif' alt='github' height='40'>](https://github.com/KamilAkhonov)  [<img src='https://s2.gifyu.com/images/telegram.gif' alt='telegram' height='40'>](https://t.me/KamilAkhonov)
