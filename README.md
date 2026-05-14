@@ -3,8 +3,11 @@
 Data Engineering Enthusiast | Ex-AdOps Senior Specialist
 
 🎓 MPEI Graduate (2023) — Information & Computer Technologies.
+
 🛠️ Currently bridging the gap between AdTech operations and Data Engineering. Working with high-load DSP systems and programmatic data.
+
 📊 Love turning messy numbers into clean pipelines.
+
 🐈 Fragrance collector, cat lover, and data explorer.
 
 
