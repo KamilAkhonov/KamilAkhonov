@@ -1,6 +1,6 @@
 ![](https://mir-s3-cdn-cf.behance.net/project_modules/1400/67607955080161.597768d22e415.gif)
 
-Data Engineering Enthusiast | Ex-AdOps Senior Specialist
+Data Engineering Enthusiast | AdOps Senior Specialist
 
 🎓 MPEI Graduate (2023) — Information & Computer Technologies.
 
